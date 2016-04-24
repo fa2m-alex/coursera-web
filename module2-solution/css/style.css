@@ -22,25 +22,22 @@ content {
   background-color: #d9d9d9;
 }
 
-.region-1 {
+.region {
   float: right;
   width: 120px;
   border: 1px solid black;
-  background-color: #ff9999;
 }
-.region-2 {
-  float: right;
-  width: 120px;
-  border: 1px solid black;
+.first-reg {
+  background-color: #ff9999;;
+}
+.sec-reg {
   background-color: #b30000;
   color: white;
 }
-.region-3 {
-  float: right;
-  width: 120px;
-  border: 1px solid black;
+.third-reg {
   background-color: #ffd966;
 }
+
 
 .region-content {
   margin: 0;
